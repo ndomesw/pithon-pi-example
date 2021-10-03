@@ -1,1 +1,1 @@
-# pithon-pi-example
+# python-pi-example
